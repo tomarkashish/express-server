@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EcommerceAPI/EcommerceAPI.iml" filepath="$PROJECT_DIR$/EcommerceAPI/EcommerceAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExpressServer.iml" filepath="$PROJECT_DIR$/ExpressServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/controllers/controllers.iml" filepath="$PROJECT_DIR$/controllers/controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcommerceAPI/controllers1/controllers1.iml" filepath="$PROJECT_DIR$/EcommerceAPI/controllers1/controllers1.iml" />
       <module fileurl="file://$PROJECT_DIR$/routes/routes.iml" filepath="$PROJECT_DIR$/routes/routes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcommerceAPI/routes1/routes1.iml" filepath="$PROJECT_DIR$/EcommerceAPI/routes1/routes1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcommerceAPI/services/services.iml" filepath="$PROJECT_DIR$/EcommerceAPI/services/services.iml" />
     </modules>
   </component>
 </project>
